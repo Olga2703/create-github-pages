@@ -1,1 +1,3 @@
-https://Olga2703.github.io/rsschool-cv/cv
+Task TiC TAC TOE
+
+The game of tic tac toe on the React.
